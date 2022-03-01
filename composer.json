@@ -1,5 +1,5 @@
 {
-  "name": "gietos/phpskills",
+  "name": "baxtian/phpskills",
   "description": "Implementation of Microsoft's TrueSkill matchmaking system for PHP",
   "keywords": ["trueskill", "matchmaking", "ranking", "skill", "elo"],
   "homepage": "https://github.com/moserware/PHPSkills",
@@ -12,6 +12,12 @@
     {
       "name": "Alexander Liljengård",
       "email": "alexander@paxxmedia.se",
+      "role": "Contributor"
+    }
+	,
+    {
+      "name": "Juan Sebastián Echeverry",
+      "email": "baxtian.echeverry@gmail.com",
       "role": "Contributor"
     }
   ],
